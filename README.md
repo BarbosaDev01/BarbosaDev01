@@ -1,5 +1,6 @@
 #  About Me:
 C#| Python | ASP .Net
+
 🎓Técnico em Desenvolvimento de Sistemas- SENAI 
 🧑🏾‍💻Graduando em Análise e Desenvolvimento de Sistemas - UNIT
 
