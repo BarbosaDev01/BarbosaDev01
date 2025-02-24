@@ -1,7 +1,7 @@
 #  About Me:
-👋 Olá, sou Barbosa e tenho 17 anos <br>
-💻 Estou me aprofundando em JS e C# <br>
-🎓 Estudante de Técnico em Desenvolvimento de Sistemas | SENAI<br>
+C#| Python | ASP .Net
+🎓Técnico em Desenvolvimento de Sistemas- SENAI 
+🧑🏾‍💻Graduando em Análise e Desenvolvimento de Sistemas - UNIT
 
 
 ## 🌐 Socials:
