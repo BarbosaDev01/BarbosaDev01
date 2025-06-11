@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Gabriel Barbosa!
 
-Sou desenvolvedor com foco em **C#**, **Python** e **ASP.NET**, apaixonado por soluções tecnológicas com impacto social. Atualmente, estou desenvolvendo o projeto **HidrAju**, que leva pontos de hidratação pública e sustentável para a cidade de Aracaju.
+Sou desenvolvedor com foco em **C#**, **Python** e **ASP.NET**, apaixonado por tecnologia e pelo impacto que ela pode causar no mundo real.
 
 🎓 Técnico em Desenvolvimento de Sistemas — **SENAI**  
 🎓 Graduando em Análise e Desenvolvimento de Sistemas — **UNIT**
@@ -15,19 +15,20 @@ Sou desenvolvedor com foco em **C#**, **Python** e **ASP.NET**, apaixonado por s
 
 ## 💻 Tecnologias e Ferramentas
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BarbosaDev01&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BarbosaDev01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BarbosaDev01&theme=dark&hide_border=false)
 
-<!-- Linguagens menos relevantes como CSS e JS estão ocultadas via .gitattributes -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BarbosaDev01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
