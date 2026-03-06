@@ -19,7 +19,7 @@ Apaixonado por tecnologia e pelo impacto que ela pode causar no mundo real.
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=BarbosaDev01&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BarbosaDev01&layout=compact&theme=dark&hide=css,html&langs_count=6)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BarbosaDev01&layout=compact&theme=dark&hide=css,html)
 
 ---
 
