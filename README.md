@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Gabriel Barbosa!
 
-Sou desenvolvedor com foco em **C#**, **Python** e **ASP.NET**, apaixonado por tecnologia e pelo impacto que ela pode causar no mundo real.
+Apaixonado por tecnologia e pelo impacto que ela pode causar no mundo real.
 
 🎓 Técnico em Desenvolvimento de Sistemas — **SENAI**  
 🎓 Graduando em Análise e Desenvolvimento de Sistemas — **UNIT**
@@ -13,12 +13,7 @@ Sou desenvolvedor com foco em **C#**, **Python** e **ASP.NET**, apaixonado por t
 
 ---
 
-## 💻 Tecnologias e Ferramentas
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
----
 
 ## 📊 GitHub Stats
 
